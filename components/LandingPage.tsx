@@ -132,10 +132,14 @@ export function LandingPage() {
                   About the Charity
                 </h2>
                 <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  The XYZ Charity is a non-profit organization dedicated to
-                  supporting our local community. All proceeds from the Charity
-                  Golf Tournament will go directly to funding their programs and
-                  initiatives.
+                  The TC Colorado Classic is a charitable golf tournament put
+                  together to raise awareness for drug addiction. We’ve lost
+                  countless friends and family to drug abuse that partially
+                  stems from misprescribed or overprescribed prescription drugs.
+                  Our hope is that we’re able to use The Mandatory Charity Golf
+                  Tournament as the anchor and catalyst to continue to raise
+                  money for TC’s Fund while continuing to build awareness on the
+                  critical issues of drug abuse and drug addiction.
                 </p>
                 <Link
                   href="#"
